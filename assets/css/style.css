@@ -1,14 +1,23 @@
-.navbar navbar-expand-lg navbar-light bg-light {
-    padding: 10px;
-    background: #.navbar {
-        padding: 10px;
-        background: #5191fd;
+.navbar {color: #95df94;
+    
   }
 
-  .navbar    {
-    background-color: #95df94;
+  
+h1  {
+    color: #95df94; 
+    /* border-bottom: black; */
 }
 
-.vis    {
-    size: 2cm;
+h2{
+    color: #95df94;
+}
+
+
+.navbar navbar-expand-lg navbar-light bg-light {
+background-color: #95df94;
+}
+
+aside{
+    size-adjust: 5cm;
+    inline-size: auto;
 }
