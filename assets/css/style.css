@@ -12,12 +12,25 @@ h2{
     color: #95df94;
 }
 
+p {
+    padding: 20px;
+    font-size: 16pt;
+    
 
 .navbar navbar-expand-lg navbar-light bg-light {
 background-color: #95df94;
 }
 
-aside{
-    size-adjust: 5cm;
-    inline-size: auto;
+
+.img-thumbnail{
+    height: 140px;
+    width: 140px;
+    float: left;
+    
 }
+
+/* .img {
+    height: fit-content;
+    width: fit-content;
+    float: left;   
+} */
