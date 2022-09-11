@@ -2,14 +2,17 @@
     
   }
 
+body    {
+    background-color: lightgray;
+   }
   
 h1  {
-    color: #95df94; 
+    color: hsl(119, 81%, 33%); 
     /* border-bottom: black; */
 }
 
 h2{
-    color: #95df94;
+    color: hsl(119, 81%, 33%); ;
 }
 
 p {
@@ -23,14 +26,21 @@ background-color: #95df94;
 
 
 .img-thumbnail{
-    height: 140px;
-    width: 140px;
+    padding: 15px;
+    height: 10px;
+    width: 10px;
     float: left;
     
 }
 
 /* .img {
-    height: fit-content;
-    width: fit-content;
-    float: left;   
+    height: 65px;
+    width: 70px;
+    float: left;
+    padding: 20px;   
+    
 } */
+
+.section-padding {
+    padding: 30px 30px 30px;
+}
