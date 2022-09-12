@@ -1,5 +1,16 @@
 # Unit 11 Homework: Web Visualization Dashboard 
 
+Please find the assignment attached.
+
+I used Lorm Ipsum text thgoughout.  I was not able to work through behavioral inconsistency between my main page (index.html) and my visualization pages (index_1 - 4.html).
+
+Kind Regards,
+Chuck
+
+
+-----
+
+
 ## Background
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
@@ -120,7 +131,7 @@ Large screen:
 Small screen:
 
 ![Landing page small screen](Images/landing-sm.png)
-￼
+ 
 
 #### <a id="comparisons-page"></a>Comparisons page
 
